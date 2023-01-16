@@ -1,0 +1,15 @@
+C:\Users\KarU\Desktop\FileOperation\bin\Debug\net6.0\FileOperation.exe
+C:\Users\KarU\Desktop\FileOperation\bin\Debug\net6.0\FileOperation.deps.json
+C:\Users\KarU\Desktop\FileOperation\bin\Debug\net6.0\FileOperation.runtimeconfig.json
+C:\Users\KarU\Desktop\FileOperation\bin\Debug\net6.0\FileOperation.dll
+C:\Users\KarU\Desktop\FileOperation\bin\Debug\net6.0\FileOperation.pdb
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.csproj.AssemblyReference.cache
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfoInputs.cache
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfo.cs
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.dll
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\refint\FileOperation.dll
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.pdb
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\FileOperation.genruntimeconfig.cache
+C:\Users\KarU\Desktop\FileOperation\obj\Debug\net6.0\ref\FileOperation.dll
